@@ -8,6 +8,7 @@ export default function Home() {
   <Button><Link href={"/counter"}>Counter</Link></Button>
   <Button><Link href={"/stopwatch"}>Stopwatch</Link></Button>
   <Button><Link href={"/likebutton"}>Like Button</Link></Button>
+  <Button><Link href={"/starRating"}>Star Rating</Link></Button>
   </div>
   );
 }
