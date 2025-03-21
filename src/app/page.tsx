@@ -11,6 +11,7 @@ export default function Home() {
   <Button><Link href={"/starRating"}>Star Rating</Link></Button>
   <Button><Link href={"/tabs"}>Tabs</Link></Button>
   <Button><Link href={"/accordian"}>Accordian</Link></Button>
+  <Button><Link href={"/traficLight"}>Trafc Light</Link></Button>
   </div>
   );
 }
